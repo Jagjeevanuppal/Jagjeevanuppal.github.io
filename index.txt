@@ -3,7 +3,7 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
-    <meta name="author" content="Eleanor Gaye">
+    <meta name="author" content="Jeevan Uppal">
     <title>Letter</title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
